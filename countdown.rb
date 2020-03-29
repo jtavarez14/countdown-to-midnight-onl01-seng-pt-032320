@@ -5,7 +5,6 @@ def countdown(n)
    n -= 1 
    when n == 0 
      puts "HAPPY NEW YEAR!"
-   end
  end
 end
 
