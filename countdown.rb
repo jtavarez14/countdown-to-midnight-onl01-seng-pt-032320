@@ -1,8 +1,8 @@
 def countdown
- number = 10 
- while number > 0 
-   puts "#{number} SECOND(S)!"
-   number -= 1 
+ n = 10 
+ while n > 0 
+   puts "#{n} SECOND(S)!"
+   n -= 1 
    sleep 1 
  end
 end
